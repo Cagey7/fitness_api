@@ -9,15 +9,15 @@ $ cd fitness_api
 
 ### Запуск с докером
 
-1) Создайте файл .env с настройками из .env.example
+1) Поменяйте название файла .env.example на .env
 2) Запустите одну из команд снизу в зависимости от желаемых настроек
 
 ```sh
-$ docker compose -f production.yml up
+$ docker compose -f development.yml up
 ```
 
 ```sh
-$ docker compose -f development.yml up
+$ docker compose -f production.yml up
 ```
 
 ### Запустить локально
@@ -43,16 +43,16 @@ $ .\venv\Scripts\activate
 (venv) $ python manage.py migrate --settings=fitness_api.settings.development
 ```
 
-4) Запустите приложение
-
-```sh
-(venv) $ python manage.py runserver --settings=fitness_api.settings.development
-```
-
-5) Если хотите заполнить базу данных данными можете запустить
+4) Если хотите заполнить базу данных данными можете запустить
 
 ```sh
 (venv) $ python manage.py loaddata data.json --settings=fitness_api.settings.development
+```
+
+5) Запустите приложение
+
+```sh
+(venv) $ python manage.py runserver --settings=fitness_api.settings.development
 ```
 
 ## Документация (swagger)
