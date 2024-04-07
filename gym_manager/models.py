@@ -25,15 +25,14 @@ class TrainerSchedule(models.Model):
     week_day = models.CharField(max_length=2, choices=DayOfTheWeek.choices)
     start_time = models.TimeField()
     end_time = models.TimeField()
-    gym = models.ForeignKey(Gym, on_delete=models.CASCADE)
-    trainer = models.ForeignKey(Trainer, on_delete=models.CASCADE)
+    gym = models.ForeignKey(Gym, on_delete=models.SET_NULL)
+    trainer = models.ForeignKey(Trainer, on_delete=models.SET_NULL)
 
 
 class ClientSchedule(models.Model):
     date = models.DateField()
     start_time = models.TimeField()
     end_time = models.TimeField()
-    gym = models.ForeignKey(Gym, on_delete=models.CASCADE)
-    trainer = models.ForeignKey(Trainer, on_delete=models.CASCADE)
-    client = models.ForeignKey(Client, on_delete=models.CASCADE)
-
+    gym = models.ForeignKey(Gym, on_delete=models.SET_NULL)
+    trainer = models.ForeignKey(Trainer, on_delete=models.SET_NULL)
+    client = models.ForeignKey(Client, on_delete=models.SET_NULL)

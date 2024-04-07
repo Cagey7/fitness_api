@@ -1,0 +1,768 @@
+[
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2024-04-07T09:07:14.408Z",
+    "user": 1,
+    "content_type": 6,
+    "object_id": "2",
+    "object_repr": "user",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2024-04-07T09:07:29.952Z",
+    "user": 1,
+    "content_type": 6,
+    "object_id": "3",
+    "object_repr": "user1",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2024-04-07T09:07:44.401Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "1",
+    "object_repr": "Админ зала:  ",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2024-04-07T09:07:49.630Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "1",
+    "object_repr": "Тренер:  ",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2024-04-07T09:07:55.806Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Клиент:  ",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2024-04-07T09:11:46.069Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "1",
+    "object_repr": "заал1",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2024-04-07T09:12:12.173Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "1",
+    "object_repr": "TrainerSchedule object (1)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2024-04-07T09:12:34.549Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "1",
+    "object_repr": "ClientSchedule object (1)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2024-04-07T09:15:11.801Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "2",
+    "object_repr": "TrainerSchedule object (2)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2024-04-07T12:46:52.402Z",
+    "user": 1,
+    "content_type": 6,
+    "object_id": "3",
+    "object_repr": "user1",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2024-04-07T12:46:52.411Z",
+    "user": 1,
+    "content_type": 6,
+    "object_id": "2",
+    "object_repr": "user",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2024-04-07T12:47:05.901Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "1",
+    "object_repr": "заал1",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2024-04-07T12:51:50.193Z",
+    "user": 1,
+    "content_type": 6,
+    "object_id": "4",
+    "object_repr": "user1",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2024-04-07T12:58:16.788Z",
+    "user": 1,
+    "content_type": 6,
+    "object_id": "4",
+    "object_repr": "user1",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2024-04-07T13:01:40.256Z",
+    "user": 1,
+    "content_type": 6,
+    "object_id": "5",
+    "object_repr": "taras",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2024-04-07T13:02:30.622Z",
+    "user": 1,
+    "content_type": 6,
+    "object_id": "6",
+    "object_repr": "olzhas",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2024-04-07T13:03:12.013Z",
+    "user": 1,
+    "content_type": 6,
+    "object_id": "7",
+    "object_repr": "aleneva",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 18,
+  "fields": {
+    "action_time": "2024-04-07T13:04:12.333Z",
+    "user": 1,
+    "content_type": 6,
+    "object_id": "8",
+    "object_repr": "loginov",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 19,
+  "fields": {
+    "action_time": "2024-04-07T13:05:59.207Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "2",
+    "object_repr": "Тренер: Васильев Тарас",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 20,
+  "fields": {
+    "action_time": "2024-04-07T13:06:10.850Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "1",
+    "object_repr": "Админ зала:  ",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 21,
+  "fields": {
+    "action_time": "2024-04-07T13:07:00.717Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "2",
+    "object_repr": "Админ зала: Аленева Сандигуль",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 22,
+  "fields": {
+    "action_time": "2024-04-07T13:07:14.973Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Клиент: Григорий Логинов",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 23,
+  "fields": {
+    "action_time": "2024-04-07T13:07:31.865Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "Клиент: Олжасев Бейбитжан",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 24,
+  "fields": {
+    "action_time": "2024-04-07T13:08:27.170Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "2",
+    "object_repr": "ФитнесПро",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 25,
+  "fields": {
+    "action_time": "2024-04-07T13:08:51.615Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "3",
+    "object_repr": "TrainerSchedule object (3)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 26,
+  "fields": {
+    "action_time": "2024-04-07T13:09:04.324Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "4",
+    "object_repr": "TrainerSchedule object (4)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 27,
+  "fields": {
+    "action_time": "2024-04-07T13:09:16.024Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "5",
+    "object_repr": "TrainerSchedule object (5)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 28,
+  "fields": {
+    "action_time": "2024-04-07T13:09:27.927Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "6",
+    "object_repr": "TrainerSchedule object (6)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 29,
+  "fields": {
+    "action_time": "2024-04-07T13:09:46.861Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "7",
+    "object_repr": "TrainerSchedule object (7)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 30,
+  "fields": {
+    "action_time": "2024-04-07T13:10:20.857Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "2",
+    "object_repr": "ClientSchedule object (2)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 31,
+  "fields": {
+    "action_time": "2024-04-07T13:10:39.209Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "3",
+    "object_repr": "ClientSchedule object (3)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 32,
+  "fields": {
+    "action_time": "2024-04-07T13:11:03.019Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "4",
+    "object_repr": "ClientSchedule object (4)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 33,
+  "fields": {
+    "action_time": "2024-04-07T13:11:18.161Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "2",
+    "object_repr": "ClientSchedule object (2)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 34,
+  "fields": {
+    "action_time": "2024-04-07T13:11:38.531Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "5",
+    "object_repr": "ClientSchedule object (5)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 35,
+  "fields": {
+    "action_time": "2024-04-07T13:11:56.937Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "6",
+    "object_repr": "ClientSchedule object (6)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 36,
+  "fields": {
+    "action_time": "2024-04-07T13:12:06.279Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "6",
+    "object_repr": "ClientSchedule object (6)",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 37,
+  "fields": {
+    "action_time": "2024-04-07T13:12:26.588Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "6",
+    "object_repr": "ClientSchedule object (6)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Start time\", \"End time\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 38,
+  "fields": {
+    "action_time": "2024-04-07T13:12:45.451Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "6",
+    "object_repr": "ClientSchedule object (6)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 39,
+  "fields": {
+    "action_time": "2024-04-07T13:13:03.487Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "7",
+    "object_repr": "ClientSchedule object (7)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "ypww1yvv93arv6z3u9oawc8zm9ebrbd9",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAQRf-FtSE8HB4u3fcbyACDVA0kpV0Z_12bdKHbe865LxZwW2vYBi1hzuzCJDv9bhHTg9oO8h3brfPU27rMke8KP-jgU8_0vB7u30HFUb-1BelRw9mogrpkodBRwpSLBiEoEipD0gPI7JIhsqRQCW9BCzSuWMPeH-18N_4:1rtRbt:VbmwwZMV0jUgRk_mwO7WY0arnLHWC_qNf-_R3KIe8Uo",
+    "expire_date": "2024-04-21T12:26:57.742Z"
+  }
+},
+{
+  "model": "users.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$720000$CVcxT294SYbyQSCQt43Kbj$ugaJHQI7aunMyyswujL9V/7g4TTuvhb1Bv4qB4d8aU0=",
+    "last_login": "2024-04-07T12:26:57.736Z",
+    "is_superuser": true,
+    "username": "admin",
+    "first_name": "",
+    "last_name": "",
+    "email": "admin@gmail.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2024-04-07T08:52:08.327Z",
+    "middle_name": null,
+    "gender": null,
+    "date_of_birth": null,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "users.user",
+  "pk": 5,
+  "fields": {
+    "password": "123456",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "taras",
+    "first_name": "Тарас",
+    "last_name": "Васильев",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2024-04-07T13:01:08Z",
+    "middle_name": "Васильевич",
+    "gender": "М",
+    "date_of_birth": "2024-04-01",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "users.user",
+  "pk": 6,
+  "fields": {
+    "password": "123456",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "olzhas",
+    "first_name": "Бейбитжан",
+    "last_name": "Олжасев",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2024-04-07T13:01:44Z",
+    "middle_name": "Олжасев",
+    "gender": "М",
+    "date_of_birth": "2024-01-10",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "users.user",
+  "pk": 7,
+  "fields": {
+    "password": "123456",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "aleneva",
+    "first_name": "Сандигуль",
+    "last_name": "Аленева",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2024-04-07T13:02:32Z",
+    "middle_name": "Аленева",
+    "gender": "Ж",
+    "date_of_birth": "2023-11-01",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "users.user",
+  "pk": 8,
+  "fields": {
+    "password": "123456",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "loginov",
+    "first_name": "Логинов",
+    "last_name": "Григорий",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2024-04-07T13:03:14Z",
+    "middle_name": "Фролович",
+    "gender": "М",
+    "date_of_birth": "2023-12-20",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "users.client",
+  "pk": 2,
+  "fields": {
+    "user": 8,
+    "height": 180,
+    "weight": 70
+  }
+},
+{
+  "model": "users.client",
+  "pk": 3,
+  "fields": {
+    "user": 6,
+    "height": 175,
+    "weight": 75
+  }
+},
+{
+  "model": "users.trainer",
+  "pk": 2,
+  "fields": {
+    "user": 5,
+    "price_per_hour": 6000,
+    "specialization": "Тренер для похудения, тренер для набора мышечной массы"
+  }
+},
+{
+  "model": "users.gymadmin",
+  "pk": 2,
+  "fields": {
+    "user": 7
+  }
+},
+{
+  "model": "gym_manager.gym",
+  "pk": 2,
+  "fields": {
+    "name": "ФитнесПро",
+    "address": "Кабанбай Батыра 11",
+    "gym_admin": 2
+  }
+},
+{
+  "model": "gym_manager.trainerschedule",
+  "pk": 3,
+  "fields": {
+    "week_day": "ПН",
+    "start_time": "10:00:00",
+    "end_time": "20:00:00",
+    "gym": 2,
+    "trainer": 2
+  }
+},
+{
+  "model": "gym_manager.trainerschedule",
+  "pk": 4,
+  "fields": {
+    "week_day": "ВТ",
+    "start_time": "10:00:00",
+    "end_time": "21:00:00",
+    "gym": 2,
+    "trainer": 2
+  }
+},
+{
+  "model": "gym_manager.trainerschedule",
+  "pk": 5,
+  "fields": {
+    "week_day": "СР",
+    "start_time": "10:00:00",
+    "end_time": "19:00:00",
+    "gym": 2,
+    "trainer": 2
+  }
+},
+{
+  "model": "gym_manager.trainerschedule",
+  "pk": 6,
+  "fields": {
+    "week_day": "ЧТ",
+    "start_time": "10:00:00",
+    "end_time": "20:00:00",
+    "gym": 2,
+    "trainer": 2
+  }
+},
+{
+  "model": "gym_manager.trainerschedule",
+  "pk": 7,
+  "fields": {
+    "week_day": "ПТ",
+    "start_time": "10:00:00",
+    "end_time": "18:00:00",
+    "gym": 2,
+    "trainer": 2
+  }
+},
+{
+  "model": "gym_manager.clientschedule",
+  "pk": 3,
+  "fields": {
+    "date": "2024-04-16",
+    "start_time": "10:00:00",
+    "end_time": "11:00:00",
+    "gym": 2,
+    "trainer": 2,
+    "client": 2
+  }
+},
+{
+  "model": "gym_manager.clientschedule",
+  "pk": 4,
+  "fields": {
+    "date": "2024-04-18",
+    "start_time": "10:00:00",
+    "end_time": "11:00:00",
+    "gym": 2,
+    "trainer": 2,
+    "client": 2
+  }
+},
+{
+  "model": "gym_manager.clientschedule",
+  "pk": 5,
+  "fields": {
+    "date": "2024-04-15",
+    "start_time": "10:00:00",
+    "end_time": "11:00:00",
+    "gym": 2,
+    "trainer": 2,
+    "client": 3
+  }
+},
+{
+  "model": "gym_manager.clientschedule",
+  "pk": 7,
+  "fields": {
+    "date": "2024-04-17",
+    "start_time": "14:00:00",
+    "end_time": "15:00:00",
+    "gym": 2,
+    "trainer": 2,
+    "client": 3
+  }
+}
+]
