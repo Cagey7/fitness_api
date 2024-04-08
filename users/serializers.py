@@ -10,8 +10,6 @@ class UserSerializer(serializers.ModelSerializer):
 
 
 class TrainerSerializer(serializers.ModelSerializer):
-    gyms = GymSerializer(many=True, read_only=True)
-    
     class Meta:
         model = Trainer
         fields = "__all__"
