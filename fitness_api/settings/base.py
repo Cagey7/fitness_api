@@ -108,3 +108,8 @@ STATIC_URL = 'static/'
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 AUTH_USER_MODEL = 'users.User'
+
+ROOT_URLCONF = 'fitness_api.urls'
+
+STATIC_URL = 'static/'
+STATIC_ROOT = BASE_DIR / 'static'
